@@ -2,3 +2,5 @@ Esse projeto em HTML foi feito na disciplina de Desenvolvimento de Aplicações 
 
 - O site foi projetado para ser responsivo, garantindo melhor navegação em dispositivos móveis e em desktops.
 - O site tem um botão ou link que direciona o leitor para o perfil oficial do GitHub da desenvolvedora, permitindo que explorem meus projetos e habilidades.
+
+Para acessar o site, o link da página inicial é 'https://mulheresnomoba.vercel.app'.

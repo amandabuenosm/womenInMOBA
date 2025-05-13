@@ -26,12 +26,12 @@ p, header h1, h3, h4 {
 }
 
 h3, h4 {
-    font-family: monospace;
+    font-family: 'Quintessential';
     font-size: 18px;
     font-style: italic;
 }
 p {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Share Tech';
     font-style: italic;
 }
 section {
